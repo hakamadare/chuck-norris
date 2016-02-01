@@ -1,0 +1,11 @@
+.dockerignore
+Dockerfile
+docker-compose.yml
+.env
+.git
+.gitignore
+.editorconfig
+*.md
+db
+examples
+tests
